@@ -1,3 +1,3 @@
-# Data-Visualization-with-Python
+# Data-Visualization-with-map
 
 Bar plot and Choropleth map
